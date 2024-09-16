@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Programacao, analise de dados.
 - 💞️ I’m looking to collaborate on Analises.
 - 📫 How to reach me rafael_r_nunes@hotmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Analista de Dados | Especialista em Logística | Apaixonado por Insights
