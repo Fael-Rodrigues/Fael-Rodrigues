@@ -4,7 +4,7 @@
 
 **`Analista de dados`**
 
-Me chamo Rafaek Rodrigues Nunes, tenho 35 anos e sou natural de Taubaté São Paulo. Após anos de experiência na área de Logística, desenvolvendo habilidades analíticas, solução de problemas e tomada de decisões, decidi explorar minha paixão por tecnologia e dados. Atualmente, estou me especializando em análise de dados, ciência de dados e ferramentas como Python, SQL e Power BI, estou cursando Análise e Desenvolvimento de Sistemas na Fatec-Taubate. Sou apaixonado por tecnologia e estou trabalhando em projetos práticos para consolidar meu aprendizado e contribuir para a comunidade de dados. Meu objetivo é aplicar meu conhecimento em processos logísticos e minha experiência profissional para resolver problemas reais utilizando dados.
+Me chamo Rafael Rodrigues Nunes, tenho 35 anos e sou natural de Taubaté São Paulo. Após anos de experiência na área de Logística, desenvolvendo habilidades analíticas, solução de problemas e tomada de decisões, decidi explorar minha paixão por tecnologia e dados. Atualmente, estou me especializando em análise de dados, ciência de dados e ferramentas como Python, SQL e Power BI, estou cursando Análise e Desenvolvimento de Sistemas na Fatec-Taubate. Sou apaixonado por tecnologia e estou trabalhando em projetos práticos para consolidar meu aprendizado e contribuir para a comunidade de dados. Meu objetivo é aplicar meu conhecimento em processos logísticos e minha experiência profissional para resolver problemas reais utilizando dados.
 
 <p align="left">
        </a> 
