@@ -12,7 +12,7 @@ Minha abordagem foca em transformar dados brutos em decisões estratégicas, uti
 🛠️ Tecnologias e Ferramentas
 
 •
-Linguagens: Python (Pandas, Numpy, Scikit-learn), SQL (MySQL, PostgreSQL)
+Linguagens: Python (Pandas, Numpy), SQL (MySQL, PostgreSQL)
 
 •
 Visualização: Power BI, Tableau, Matplotlib, Seaborn
@@ -21,7 +21,7 @@ Visualização: Power BI, Tableau, Matplotlib, Seaborn
 Ferramentas de Negócio: SAP, Excel Avançado (VBA), Google Sheets
 
 •
-Automação: Selenium, PyAutoGUI, Airflow (em aprendizado)
+Automação: Power Automate, Airflow (em aprendizado)
 
 
 
@@ -57,7 +57,7 @@ Skills: SQL, Modelagem ER, MySQL Workbench.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/rafael-r-nunes )
 
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:seu-email@exemplo.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white )](rafael_r_nunes@hotmail.com)
 
 
 
