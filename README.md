@@ -1,86 +1,66 @@
-## Hi there 👋
+Olá, eu sou o Rafael Rodrigues 👋
 
-# 👨‍💻 Rafael Rodrigues
+📊 Analista de Dados | Especialista em Logística & PCP
 
-**`Analista de dados`**
+Sou um profissional com sólida bagagem em Logística, Planejamento de Materiais e Gestão de Estoques. Atualmente, estou unindo minha experiência de negócio com Ciência de Dados e Automação para criar soluções que geram eficiência operacional e redução de custos.
 
-Me chamo Rafael Rodrigues Nunes, tenho 35 anos e sou natural de Taubaté São Paulo. Após anos de experiência na área de Logística, desenvolvendo habilidades analíticas, solução de problemas e tomada de decisões, decidi explorar minha paixão por tecnologia e dados. Atualmente, estou me especializando em análise de dados, ciência de dados e ferramentas como Python, SQL e Power BI, estou cursando Análise e Desenvolvimento de Sistemas na Fatec-Taubate. Sou apaixonado por tecnologia e estou trabalhando em projetos práticos para consolidar meu aprendizado e contribuir para a comunidade de dados. Meu objetivo é aplicar meu conhecimento em processos logísticos e minha experiência profissional para resolver problemas reais utilizando dados.
+Minha abordagem foca em transformar dados brutos em decisões estratégicas, utilizando tecnologia para resolver problemas reais da cadeia de suprimentos.
 
-<p align="left">
-       </a> 
-    <a href="https://github.com/Fael-Rodrigues?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Fael-Rodrigues?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Fael-Rodrigues?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Fael-Rodrigues?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
----
 
-### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
-    align="left" 
-    alt="MYSQL" 
-    title="MYSQL"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
-/>
-<img
-    align="left" 
-    alt="Salesforce" 
-    title="SALESFORCE"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQLSERVER" 
-    title="SQLSERVER"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
-/>
-<img
-    align="left" 
-    alt="JUPYTER" 
-    title="JUPYTER"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
-/>   
-<br>
-<br>
+🛠️ Tecnologias e Ferramentas
 
-## 📱 Contatos
+•
+Linguagens: Python (Pandas, Numpy, Scikit-learn), SQL (MySQL, PostgreSQL)
 
-  <a href="www.linkedin.com/in/rafael-r-nunes" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+•
+Visualização: Power BI, Tableau, Matplotlib, Seaborn
+
+•
+Ferramentas de Negócio: SAP, Excel Avançado (VBA), Google Sheets
+
+•
+Automação: Selenium, PyAutoGUI, Airflow (em aprendizado)
+
+
+
+
+🚀 Projetos em Destaque
+
+🚴‍♂️ Estudo de Caso: Cyclistic Bike Share
+
+Análise de comportamento de usuários para estratégia de marketing, utilizando Python.
+
+•
+Impacto: Identificação de padrões de uso entre membros e casuais para conversão de assinaturas.
+
+•
+Skills: Python, Limpeza de Dados, Visualização.
+
+🛒 Modelagem de Dados E-Commerce
+
+Projeto conceitual de banco de dados relacional focado em escala e performance.
+
+•
+Impacto: Estruturação de dados para suporte a decisões de vendas e estoque.
+
+•
+Skills: SQL, Modelagem ER, MySQL Workbench.
+
+
+
+
+📫 Vamos nos conectar?
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/rafael-r-nunes )
+
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:seu-email@exemplo.com)
+
+
+
+
+"Dados são apenas números até que você os transforme em inteligência logística."
+
