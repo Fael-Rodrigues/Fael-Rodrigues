@@ -35,10 +35,10 @@ Utilizo **SQL, Python, Power BI e Excel** para mapear gargalos, construir dashbo
 
 ### 📂 Projetos em Destaque
 
-*(Conforme você for adicionando seus projetos ao GitHub, você pode listá-los aqui)*
+- 🚲 **[Análise de Dados de Compartilhamento de Bicicletas - Cyclistic](https://github.com/Fael-Rodrigues/Cyclistic-bike-share-analysis)**  
+  Estudo de caso da formação Analista de Dados Google, focado em analisar os padrões de uso entre usuários casuais e membros anuais de um sistema de compartilhamento de bicicletas, identificando oportunidades para conversão e estratégias de marketing baseadas em dados.
 
-- 📦 **[Nome do Projeto Logístico](#)**: Breve descrição do problema resolvido e das ferramentas utilizadas (ex: SQL + Power BI).
-- 🚲 **[Cyclistic-bike-share-analysis](#)**: Estudo analítico focado em padrões de uso e mobilidade.
+*(novos projetos em construção)*
 
 ---
 
