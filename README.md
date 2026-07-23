@@ -1,65 +1,51 @@
-Olá, eu sou o Rafael Rodrigues 👋
+# Olá, eu sou o Rafael Rodrigues! 👋
 
-📊 Analista de Dados | Especialista em Logística & PCP
+### 🚚 Profissional de Logística & Analista de Dados 📊
 
-Sou um profissional com sólida bagagem em Logística, Planejamento de Materiais e Gestão de Estoques. Atualmente, estou unindo minha experiência de negócio com Ciência de Dados e Automação para criar soluções que geram eficiência operacional e redução de custos.
+Sou um profissional com sólida vivência na área **Logística e Supply Chain**, especializado em transformar grandes volumes de dados operacionais em **insights estratégicos** que geram otimização de processos, redução de custos e tomada de decisão baseada em evidências.
 
-Minha abordagem foca em transformar dados brutos em decisões estratégicas, utilizando tecnologia para resolver problemas reais da cadeia de suprimentos.
+Utilizo **SQL, Python, Power BI e Excel** para mapear gargalos, construir dashboards de KPIs e desenvolver soluções analíticas voltadas para a eficiência operacional.
 
+---
 
+### 🛠️ Tech Stack & Ferramentas
 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-🛠️ Tecnologias e Ferramentas
+---
 
-•
-Linguagens: Python (Pandas, Numpy), SQL (MySQL, PostgreSQL)
+### 🎯 Áreas de Atuação e Interesses
 
-•
-Visualização: Power BI, Tableau, Matplotlib, Seaborn
+- 📈 **Logistics Analytics & KPIs:** Monitoramento de OTIF, tempo de ciclo, gestão de estoques e custos de frete.
+- 🧹 **Tratamento e Limpeza de Dados:** Manipulação e estruturação de bases operacionais complexas utilizando Python (Pandas) e SQL.
+- 📊 **Business Intelligence:** Construção de relatórios dinâmicos e dashboards interativos no Power BI e Excel Avançado.
+- 💡 **Melhoria Contínua:** Mapeamento de processos operacionais para identificação de gargalos e oportunidades de automação.
 
-•
-Ferramentas de Negócio: SAP, Excel Avançado (VBA), Google Sheets
+---
 
-•
-Automação: Power Automate, Airflow (em aprendizado)
+### 📜 Certificações
 
+- 🎓 **[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/RPNV7E8Y9PFK)**  
+  *Emitido pelo Google via Coursera* — Formação abrangente em coleta, limpeza, análise e visualização de dados, além de resolução de problemas com foco em negócios.
 
+---
 
+### 📂 Projetos em Destaque
 
-🚀 Projetos em Destaque
+*(Conforme você for adicionando seus projetos ao GitHub, você pode listá-los aqui)*
 
-🚴‍♂️ Estudo de Caso: Cyclistic Bike Share
+- 📦 **[Nome do Projeto Logístico](#)**: Breve descrição do problema resolvido e das ferramentas utilizadas (ex: SQL + Power BI).
+- 🚲 **[Análise de Dados Divvy Tripdata](#)**: Estudo analítico focado em padrões de uso e mobilidade.
 
-Análise de comportamento de usuários para estratégia de marketing, utilizando Python.
+---
 
-•
-Impacto: Identificação de padrões de uso entre membros e casuais para conversão de assinaturas.
+### 📬 Vamos nos conectar!
 
-•
-Skills: Python, Limpeza de Dados, Visualização.
-
-🛒 Modelagem de Dados E-Commerce
-
-Projeto conceitual de banco de dados relacional focado em escala e performance.
-
-•
-Impacto: Estruturação de dados para suporte a decisões de vendas e estoque.
-
-•
-Skills: SQL, Modelagem ER, MySQL Workbench.
-
-
-
-
-📫 Vamos nos conectar?
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/rafael-r-nunes )
-
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white )](rafael_r_nunes@hotmail.com)
-
-
+[![E-mail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafael_r_nunes@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-r-nunes/)
 
 
 "Dados são apenas números até que você os transforme em inteligência logística."
