@@ -38,7 +38,7 @@ Utilizo **SQL, Python, Power BI e Excel** para mapear gargalos, construir dashbo
 *(Conforme você for adicionando seus projetos ao GitHub, você pode listá-los aqui)*
 
 - 📦 **[Nome do Projeto Logístico](#)**: Breve descrição do problema resolvido e das ferramentas utilizadas (ex: SQL + Power BI).
-- 🚲 **[Análise de Dados Divvy Tripdata](#)**: Estudo analítico focado em padrões de uso e mobilidade.
+- 🚲 **[Cyclistic-bike-share-analysis](#)**: Estudo analítico focado em padrões de uso e mobilidade.
 
 ---
 
